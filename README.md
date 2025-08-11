@@ -18,7 +18,7 @@ Each player (address) has their own game session stored on-chain:
 ## 🧠 Contract Logic  
      
 - Grid size: `10 x 10`  
-- Snake starts in center, heading right.
+- Snake starts in center, heading right. 
 - Food position generated with `keccak256` pseudo-randomness.
 - All positions and game state are stored in `mapping(address => Game)`.
 
