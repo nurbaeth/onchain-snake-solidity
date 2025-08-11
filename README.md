@@ -21,7 +21,7 @@ Each player (address) has their own game session stored on-chain:
 - Snake starts in center, heading right. 
 - Food position generated with `keccak256` pseudo-randomness. 
 - All positions and game state are stored in `mapping(address => Game)`. 
-
+ 
 ## 🛠 Functions
 
 | Function | Description |  
