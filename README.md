@@ -12,7 +12,7 @@ Each player (address) has their own game session stored on-chain:
 - Eat food to grow.    
 - Hit walls or yourself? You're dead.  
 - Everything is public. Everything is stored in the contract.  
-    
+     
 🟩 This game has no rewards. No tokens. No RNG oracles. Just code.   
     
 ## 🧠 Contract Logic   
