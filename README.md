@@ -7,7 +7,7 @@ Welcome to the **first-ever Snake game built entirely in Solidity** — designed
 ## 🎮 How It Works   
        
 Each player (address) has their own game session stored on-chain:   
-      
+       
 - Move your snake with `move()` and `changeDirection()`. 
 - Eat food to grow.   
 - Hit walls or yourself? You're dead.  
