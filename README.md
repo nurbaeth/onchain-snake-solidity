@@ -24,7 +24,7 @@ Each player (address) has their own game session stored on-chain:
   
 ## 🛠 Functions 
  
-| Function | Description |  
+| Function | Description |   
 |---------|-------------|  
 | `startGame()` | Start or restart your own game. |  
 | `changeDirection(Direction)` | Change snake direction: `0=Up`, `1=Down`, `2=Left`, `3=Right`. |  
