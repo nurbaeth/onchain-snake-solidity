@@ -23,7 +23,7 @@ Each player (address) has their own game session stored on-chain:
 - All positions and game state are stored in `mapping(address => Game)`.  
   
 ## 🛠 Functions 
-
+ 
 | Function | Description |  
 |---------|-------------|  
 | `startGame()` | Start or restart your own game. |  
