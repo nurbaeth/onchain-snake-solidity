@@ -1,4 +1,4 @@
-# 🐍 Onchain Snake Game (Solidity)     
+# 🐍 Onchain Snake Game (Solidity)      
      
 > Classic Snake game — fully on-chain. No UI. No frontend. No backend. Just smart contracts and your address.  
       
