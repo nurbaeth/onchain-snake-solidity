@@ -28,7 +28,7 @@ Each player (address) has their own game session stored on-chain:
 |---------|-------------|    
 | `startGame()` | Start or restart your own game. |    
 | `changeDirection(Direction)` | Change snake direction: `0=Up`, `1=Down`, `2=Left`, `3=Right`. |   
-| `move()` | Moves the snake one step forward. |  
+| `move()` | Moves the snake one step forward. |   
 | `getSnake(address)` | Returns full snake body as an array of (x, y). |  
 | `isAlive(address)` | Returns `true` if player is still alive. |
 
