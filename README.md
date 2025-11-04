@@ -2,7 +2,7 @@
              
 > Classic Snake game — fully on-chain. No UI. No frontend. No backend. Just smart contracts and your address.       
            
-Welcome to the **first-ever Snake game built entirely in Solidity** — designed for Ethereum-compatible chains, playable by any address, and 100% trustless.      
+Welcome to the **first-ever Snake game built entirely in Solidity** — designed for Ethereum-compatible chains, playable by any address, and 100% trustless.       
                
 ## 🎮 How It Works     
          
