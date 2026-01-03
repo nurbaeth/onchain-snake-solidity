@@ -16,7 +16,7 @@ Each player (address) has their own game session stored on-chain:
 🟩 This game has no rewards. No tokens. No RNG oracles. Just code.     
      
 ## 🧠 Contract Logic       
-       
+        
 - Grid size: `10 x 10`    
 - Snake starts in center, heading right.   
 - Food position generated with `keccak256` pseudo-randomness.  
