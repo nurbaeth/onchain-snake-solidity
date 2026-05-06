@@ -4,7 +4,7 @@
               
 Welcome to the **first-ever Snake game built entirely in Solidity** — designed for Ethereum-compatible chains, playable by any address, and 100% trustless.          
                     
-## 🎮 How It Works         
+## 🎮 How It Works          
             
 Each player (address) has their own game session stored on-chain:    
          
